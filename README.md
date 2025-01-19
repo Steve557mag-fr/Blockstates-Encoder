@@ -1,1 +1,1 @@
-# BlockstatesEncoder
+# BlockstatesEncoder (BSE)
